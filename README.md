@@ -19,3 +19,7 @@ Use it:
 
     }
     //Then update your article
+
+## Copyright and license
+
+Copyright (©) 2012 Dimitris Krestos. See LICENSE for details.
